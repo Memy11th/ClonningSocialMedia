@@ -49,7 +49,7 @@ export default async function Profile() {
     </Grid>
     <Grid item xs={12} md={8} lg={8} >
       <Typography>
-        Content here
+        FETCH DATA HERE
       </Typography>
     </Grid>
   </Grid>
